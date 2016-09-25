@@ -1,0 +1,3 @@
+Dos ideas hasta el momento:
+Rango de conexión vía Bluetooth para activar alarma del coche
+Speech recognition to send messages
