@@ -3,7 +3,7 @@ En este documento podremos poner las ideas que tenemos para nuestro proyecto.
 -Un tamagochi
 -Un control de seguridad
 -Deteccion de un dispositivo Android via Bluetooth y conexion automatica
--
+-Rango de conexion via Bluetooth para activar alarma del coche
 -
 
 
