@@ -6,4 +6,4 @@ En este documento podremos poner las ideas que tenemos para nuestro proyecto.
 -Rango de conexion via Bluetooth para activar alarma del coche
 -YOLO
 -Sweet disposition
-
+-Nothing else matters
